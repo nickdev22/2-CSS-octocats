@@ -50,7 +50,7 @@ span {
 .octocat::after {
     content: "▾";
     position: relative;
-    left: 435px;
+    left: 355px;
     bottom: 54px;
     font-size: 20px;
     color: lightgrey;
